@@ -3,7 +3,7 @@
 A tiny Godot 4.7 project to try a two-thumb control scheme for a mobile game. Portrait 540 x 960, everything drawn in
 code, no assets, no server.
 
-**Play it in your browser (phone or desktop):** https://bseri0.github.io/REPO_NAME/
+**Play it in your browser (phone or desktop):** https://bseri0.github.io/twin-stick-poc/
 
 ## Controls
 
